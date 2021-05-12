@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+a{
+	text-decoration: none;
+	color:white;
+}
+a:hover{
+	color: white;
+}
+.sli{
+	height: 50px; background: rgba(0, 0, 0, 0.5);
+	color: white;
+	border-top: 3px solid darkblue;
+
+}
+.head1{
+	height: 60px;
+	width: 100%;
+	background-color: #031D2C;
+	font-size: 10px;
+}
+
+.heade .ps-md-5{
+	padding-left: 100px!important;
+}
+
+.heade .fas{
+	font-size: 12px!important; 
+} 
+.menu .nav-link{
+font-size: 14px!important;
+padding-left: 7px;
+padding-right: 7px; 
+color: white; 
+}
+
+
+.menu ul li{
+	border-bottom: 1px solid gray;
+} 
